@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QueueAsMyLinkedList
+comment1.params=
+comment1.target=QueueAsMyLinkedList()
+comment2.params=newElement
+comment2.target=void\ enqueue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=pl\ x
+comment6.target=QueueAsMyLinkedList\ method(QueueAsMyLinkedList,\ int)
+comment7.params=left\ right
+comment7.target=QueueAsMyLinkedList\ merge(QueueAsMyLinkedList,\ QueueAsMyLinkedList)
+numComments=8
